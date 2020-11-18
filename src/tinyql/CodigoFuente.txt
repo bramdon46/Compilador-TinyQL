@@ -28,5 +28,3 @@ CADENA DB 20 DUP()
  name : pedro
 
  }
-
-otra chingadera que pongo
